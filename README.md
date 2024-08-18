@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranjan Daas!
+# 👋 Hi, I'm Ranjan Das!
 
 ## 🚀 About Me
 I'm a passionate data scientist and developer with a keen interest in machine learning, deep learning and natural language processing. I love building projects that provide real-world solutions, and I'm always looking to learn new things and take on exciting challenges.
