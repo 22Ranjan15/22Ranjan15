@@ -29,9 +29,6 @@ I'm a passionate data scientist and developer with a keen interest in machine le
 - **Email**: [msd23012@iiitl.ac.in](mailto:your-email@example.com)
 - **LinkedIn**: [Ranjan Das](https://www.linkedin.com/in/ranjan-das-62a331290/)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🌍 Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me on any of the platforms mentioned above!
 
